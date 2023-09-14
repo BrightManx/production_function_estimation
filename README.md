@@ -7,5 +7,5 @@ This repo contains:
 - *main.ipynb*, the python notebook where we carried out the data manipulation and plot rendering;
 - *report.pdf*, the submitted presentation which summarizes what my group and I have done and the conclusions we have drawn.
 ---
-**Skills**: OLS, data mining, data analysis;  
+**Skills**: panel data analysis;  
 **Language**: R
